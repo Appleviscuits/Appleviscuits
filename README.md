@@ -1,6 +1,8 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<p align="center">
+  <a href="https://www.prastyo.md.com"><img src="https://i.imgur.com/KXx0cCx.gif" alt="Banner"></a>
+</p>
+
+###
 
 <h1 align="left">A little more about me...</h1>
 
@@ -26,7 +28,7 @@ const Pras = {
         databases: ["mongo", "MySql"],
         misc: ["Canva", "Figma"]
     },
-    currentProject: "I am developing Back-end for Mobile-apps using Express",
+    currentProject: "I am developing Back-end for Mobile-apps using Express.JS",
     funFact: "Building the Future, One Byte at a Time."
 };
 ```
@@ -67,16 +69,23 @@ const Pras = {
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
+<div align="left">
+<img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+
+###
