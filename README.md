@@ -25,7 +25,7 @@ const Pras = {
             python: ["Flask"]
         },
         devOps: ["GCP", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql"],
+        databases: ["Mongo", "MySql"],
         misc: ["Canva", "Figma"]
     },
     currentProject: "I am developing Back-end for Mobile-apps using Express.JS",
