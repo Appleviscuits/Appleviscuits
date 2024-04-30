@@ -27,7 +27,7 @@ const Pras = {
         misc: ["Canva", "Figma"]
     },
     currentProject: "I am developing Back-end for Mobile-apps using Express",
-    funFact: "It’s all 0’s and 1’s"
+    funFact: "Building the Future, One Byte at a Time."
 };
 ```
 
