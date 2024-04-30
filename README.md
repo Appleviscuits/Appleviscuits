@@ -80,10 +80,6 @@ const Pras = {
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
