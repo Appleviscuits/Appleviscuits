@@ -1,12 +1,41 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
 <h1 align="left">A little more about me...</h1>
 
 ###
+<h2>你好!!, I'm Dwi Prastyo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Undergraduate Student at <a href="[https://www.gunadarma.ac.id](http://www.gunadarma.ac.id)">Gunadarma University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left">const pras = {<br>    pronouns: "He" | "Him",<br>    code: ["Javascript", "Typescript", "Python", "php"],<br>    askMeAbout: ["Back-end", "tech", "GCP", "photography"],<br>    technologies: {<br>        backEnd: <br>            js: ["node", "express", "nextjs"],<br>            python: ["flask"]<br>        },<br>        devOps: ["GCP", "Docker🐳", "Nginx"],<br>        databases: ["mongo", "MySql"],<br>        misc: ["Canva", "Figma"]<br>    },<br>    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],<br>    currentProject: "I am developing Back-end for Speakgayo using Express",<br>    funFact: "There are two ways to write error-free programs; only the third one works"<br>};</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Pras = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "PHP"],
+    askMeAbout: ["Back-end", "Tech", "GCP", "Chinese :D"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "Nextjs"],
+            python: ["Flask"]
+        },
+        devOps: ["GCP", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql"],
+        misc: ["Canva", "Figma"]
+    },
+    currentProject: "I am developing Back-end for Mobile-apps using Express",
+    funFact: "It’s all 0’s and 1’s"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>你若不想做，会找一个或无数个借口；你若想做，会想一个或无数个办法 😊</em>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -24,14 +53,14 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dwi-prastyo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <a href="https://mail.google.com/prastyo.md" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/23882136/dwi-prastyo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
@@ -47,20 +76,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://tenor.com/bIimf.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Appleviscuits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Appleviscuits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31dwhevqwk6nnyb5e4g3tyd3bjtu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwhevqwk6nnyb5e4g3tyd3bjtu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+###
 
 ###
