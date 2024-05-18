@@ -18,17 +18,17 @@
 const Pras = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "PHP"],
-    askMeAbout: ["Back-end", "Tech", "GCP", "Chinese :D"],
+    askMeAbout: ["Back-end", "Tech", "GCP", "Chinese" :D"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "Nextjs"],
+            js: ["Node", "Express", "Nestjs"],
             python: ["Flask"]
         },
         devOps: ["GCP", "Docker🐳", "Nginx"],
         databases: ["Mongo", "MySql"],
         misc: ["Canva", "Figma"]
     },
-    currentProject: "I am developing Back-end for Mobile-apps using Express.JS",
+    currentProject: "I am developing Back-end for Mobile-apps using Flask",
     funFact: "Building the Future, One Byte at a Time."
 };
 ```
